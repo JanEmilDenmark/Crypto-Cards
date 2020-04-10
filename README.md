@@ -19,6 +19,9 @@ https://bitcointalk.org/index.php?topic=5068739.0<br/><br/>
 Only assets listed on https://coinmarketcap.com will be minted<br/>
 Request can be made but are very expensive ;-) Just wait and it will come eventually if we like the asset.<br/><br/>
 
+**Social media**<br/>
+https://t.me/collectiblecryptocards<br/><br/>
+
 **Team members**<br/>
 Jan Emil Christiansen<br/>
 https://t.me/JanEmil<br/>
