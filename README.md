@@ -15,8 +15,8 @@ Maybe later enable a Trump Card game engine. Not started to look at the.<br/><br
 https://en.wikipedia.org/wiki/Top_Trumps<br/>
 https://bitcointalk.org/index.php?topic=5068739.0<br/><br/>
 
-**Card**<br/>
-Only assets listed https://coinmarketcap.com<br/>
+**Cards**<br/>
+Only assets listed https://coinmarketcap.com will be minted<br/>
 Request can be made but are very expensive ;-) Just wait and it will come eventually if we like the asset.<br/><br/>
 
 **Team members**<br/>
