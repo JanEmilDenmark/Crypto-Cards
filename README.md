@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Top_Trumps<br/>
 https://bitcointalk.org/index.php?topic=5068739.0<br/><br/>
 
 **Cards**<br/>
-Only assets listed https://coinmarketcap.com will be minted<br/>
+Only assets listed on https://coinmarketcap.com will be minted<br/>
 Request can be made but are very expensive ;-) Just wait and it will come eventually if we like the asset.<br/><br/>
 
 **Team members**<br/>
