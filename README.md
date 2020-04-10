@@ -1,4 +1,4 @@
-# TrumpCryptoCards
+# CryptoCards
 
 Collectible Trump Crypto Card game.<br/><br/>
 
