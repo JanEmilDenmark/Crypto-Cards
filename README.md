@@ -9,7 +9,7 @@ After a few days he fund a good video how to get started https://www.youtube.com
 **Future plans**<br/>
 Mint crypto cards for cryptos that have something special to offer.<br/><br/>
 
-Maybe later enable a Trump Card game engine. Not started to look at the.<br/><br/> 
+Maybe later enable a card game engine. Not started to look at the.<br/><br/> 
 
 **Inspiration**<br/>
 https://en.wikipedia.org/wiki/Top_Trumps<br/>
