@@ -31,7 +31,9 @@ Decentralization  (1-10)<br/>
 Average Transaction Speed (s)<br/><br/>
 
 **Social media**<br/>
-https://t.me/collectiblecryptocards<br/><br/>
+https://t.me/collectiblecryptocards<br/>
+https://github.com/JanEmilDenmark/Crypto-Cards<br/>
+https://twitter.com/cxcrypto1 (Jan Emil)<br/><br/>
 
 **Team members**<br/>
 Jan Emil Christiansen<br/>
