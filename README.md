@@ -36,4 +36,8 @@ https://t.me/collectiblecryptocards<br/><br/>
 **Team members**<br/>
 Jan Emil Christiansen<br/>
 https://t.me/JanEmil<br/>
-JanEmil@hotmail.com<br/>
+JanEmil@hotmail.com<br/><br/>
+
+**Wanted team members**<br/>
+ERC1150 game developer<br/>
+Graphic designer<br/>
