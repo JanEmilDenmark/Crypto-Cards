@@ -22,7 +22,7 @@ Request can be made but are very expensive ;-) Just wait and it will come eventu
 **Properties**<br/>
 Name<br/>
 Ticker<br/>
-TMarketcap (updated yearly)<br/>
+Marketcap (updated yearly)<br/>
 All Time High ($) (updated yearly)<br/>
 Year funded (xxxx], lowest best<br/>
 Technology (1-10)<br/>
