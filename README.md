@@ -17,7 +17,7 @@ https://bitcointalk.org/index.php?topic=5068739.0<br/><br/>
 
 **Cards**<br/>
 Only assets listed on https://coinmarketcap.com will be minted<br/>
-Request can be made but are very expensive ;-) Just wait and it will come eventually if we like the asset.<br/><br/>
+Request can be made but then the team have to cover the cost but get some cards for distribution.
 
 **Properties**<br/>
 Name<br/>
