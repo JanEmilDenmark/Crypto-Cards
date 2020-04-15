@@ -7,7 +7,9 @@ Jan Emil Christiansen was bored/fired doring the Corona lock down and he started
 After a few days he fund a good video how to get started https://www.youtube.com/watch?v=Tmd-oDObGas<br/><br/>
 
 **Future plans**<br/>
-Mint crypto cards for cryptos that have something special to offer.<br/><br/>
+Mint crypto cards for cryptos that have something special to offer.<br/>
+Maybe include CEO as special sidekick card.
+<br/>
 
 Maybe later enable a card game engine. Not started to look at the.<br/><br/> 
 
