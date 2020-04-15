@@ -1,0 +1,15 @@
+{
+"name":"Enjin Coin (ENJ)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/enj.png",
+"description":https://cloud.enjin.io/platform/324/assets/508000000000074a.json,
+"properties": 	{
+					"Ticker": "ENJ",
+					"Marketcap": "75044941$",
+					"All Time High": "0.49$",
+					"Year funded": "2017",
+					"Technology ": "9/10",
+					"Trust": "7/10",
+					"Decentralization": "6/10",
+					"Average Transaction Speed": "15s"
+				}
+}
