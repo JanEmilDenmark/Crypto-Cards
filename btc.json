@@ -1,6 +1,6 @@
 {
 "name":"Bitcoin (BTC)",
-"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/blob\/master\/btc.png",
+"image":"https://raw.githubusercontent.com/JanEmilDenmark/Crypto-Cards/master/btc.png",
 "description":"Bitcoin (BTC) is a consensus network that enables a new payment system and a completely digital currency. Powered by its users, it is a peer to peer payment network that requires no central authority to operate. On October 31st, 2008, an individual or group of individuals operating under the pseudonym \"Satoshi Nakamoto\" published the Bitcoin Whitepaper and described it as: \"a purely peer-to-peer version of electronic cash, which would allow online payments to be sent directly from one party to another without going through a financial institution.\"",
 "properties": 	{
 					"Ticker": "BTC",

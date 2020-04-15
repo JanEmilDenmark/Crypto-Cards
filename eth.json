@@ -1,6 +1,6 @@
 {
 "name":"Ethereum (ETH)",
-"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/blob\/master\/eth.png",
+"image":"https://raw.githubusercontent.com/JanEmilDenmark/Crypto-Cards/master/eth.png",
 "description":"Ethereum (ETH) is a smart contract platform that enables developers to build decentralized applications (dapps) conceptualized by Vitalik Buterin in 2013. ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.\n\nEthereum is the pioneer for blockchain based smart contracts. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met. On the blockchain, smart contracts allow for code to be run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. The Ethereum network went live on July 30th, 2015 with 72 million Ethereum premined.",
 "properties": 	{
 					"Ticker": "ETH",
