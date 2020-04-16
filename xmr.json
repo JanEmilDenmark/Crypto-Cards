@@ -1,0 +1,15 @@
+{
+"name":"Monero (XMR)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/xmr.png",
+"description":"Monero is a private, secure, and untraceable cryptocurrency.",
+"properties": 	{
+					"Ticker": "XMR",
+					"Marketcap": "964281050$",
+					"All Time High": "495$",
+					"Year funded": "2014",
+					"Technology ": "7/10",
+					"Trust": "9/10",
+					"Decentralization": "8/10",
+					"Average Transaction Speed": "120s"
+				}
+}
