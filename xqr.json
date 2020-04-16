@@ -1,0 +1,15 @@
+{
+"name":"Qredit (XQR)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/xqr.png",
+"description":"Qredit is the native exchange currency of the Altilly Exchange. Qredit using the Ark codebase with the Delegated Proof of Stake consensus with 51 delegates forging on the network.",
+"properties": 	{
+					"Ticker": "XQR",
+					"Marketcap": "255065$",
+					"All Time High": "0,034$",
+					"Year funded": "2018",
+					"Technology ": "7/10",
+					"Trust": "6/10",
+					"Decentralization": "3/10",
+					"Average Transaction Speed": "3600s"
+				}
+}
