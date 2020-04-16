@@ -11,7 +11,7 @@ Mint crypto cards for cryptos that have something special to offer.<br/>
 Maybe include CEO as special sidekick card.
 <br/>
 
-Maybe later enable a card game engine. Not started to look at the.<br/><br/> 
+Maybe later enable a card game engine. Not started to look at that.<br/><br/> 
 
 **Inspiration**<br/>
 https://en.wikipedia.org/wiki/Top_Trumps<br/>
