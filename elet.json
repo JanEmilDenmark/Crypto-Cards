@@ -1,0 +1,15 @@
+{
+"name":"Elementeum (ELET)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/eth.png",
+"description":"Elementeum Games is behind the Ether Legends Trading Card Game, which aims to merge physical and blockchain trading cards with engaging gameplay. ELET tokens are used to create NFT's (ERC721) crypto-collectibles and gaming platform currency.",
+"properties": 	{
+					"Ticker": "ELET",
+					"Marketcap": "23630$",
+					"All Time High": "0,56$",
+					"Year funded": "2018",
+					"Technology ": "8/10",
+					"Trust": "7/10",
+					"Decentralization": "3/10",
+					"Average Transaction Speed": "15s"
+				}
+}
