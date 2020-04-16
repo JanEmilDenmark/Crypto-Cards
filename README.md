@@ -1,6 +1,6 @@
 # Crypto Cards
 
-Collectible Trump Crypto Card game.<br/><br/>
+Collectible Crypto Card game.<br/><br/>
 
 **Why?**<br/>
 Jan Emil Christiansen was bored/fired doring the Corona lock down and he started look at enjin videos to make a simple card game.<br/> 
