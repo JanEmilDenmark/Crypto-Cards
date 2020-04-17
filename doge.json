@@ -1,0 +1,15 @@
+{
+"name":"Dogecoin (DOGE)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/doge.png",
+"description":"Based on the popular "Doge" Internet meme and featuring a Shiba Inu on its logo, Dogecoin (DOGE) is a cryptocurrency that was forked from Litecoin in Dec 2013. Dogecoin has been used primarily as a tipping system on Reddit and Twitter to reward the creation or sharing of quality content. Dogecoin was created by Billy Markus from Portland, Oregon and Jackson Palmer from Sydney, Australia. Both had envisaged Dogecoin as a fun, light-hearted cryptocurrency that would have greater appeal beyond the core Bitcoin audience.",
+"properties": 	{
+					"Ticker": "DOGE",
+					"Marketcap": "249721167$",
+					"All Time High": "0,0187$",
+					"Year funded": "2013",
+					"Technology ": "6/10",
+					"Trust": "7/10",
+					"Decentralization": "7/10",
+					"Average Transaction Speed": "60s"
+				}
+}
