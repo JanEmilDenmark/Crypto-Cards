@@ -1,0 +1,15 @@
+{
+"name":"Tether (USDT)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/usdt.png",
+"description":"Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars.",
+"properties": 	{
+					"Ticker": "USDT",
+					"Marketcap": "6390184896$",
+					"All Time High": "1,21$",
+					"Year funded": "2014",
+					"Technology ": "4/10",
+					"Trust": "9/10",
+					"Decentralization": "4/10",
+					"Average Transaction Speed": "15s"
+				}
+}
