@@ -1,0 +1,15 @@
+{
+"name":"Binance Coin (BNB)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/bnb.png",
+"description":"Binance Coin is the cryptocurrency of the Binance platform. The name Binance is a combination of binary and finance.",
+"properties": 	{
+					"Ticker": "BNB",
+					"Marketcap": "2420497404$",
+					"All Time High": "39,57$",
+					"Year funded": "2017",
+					"Technology ": "5/10",
+					"Trust": "8/10",
+					"Decentralization": "3/10",
+					"Average Transaction Speed": "1s"
+				}
+}
