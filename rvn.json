@@ -1,0 +1,15 @@
+{
+"name":"Ravencoin (RVN)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/rvn.png",
+"description":"Ravencoin is an open-source blockchain project that specializes in the creation and peer-to-peer transfer of assets. Ravencoin enables users to create and trade any real-world or digital assets on a network.",
+"properties": 	{
+					"Ticker": "RVN",
+					"Marketcap": "98636458$",
+					"All Time High": "0,08$",
+					"Year funded": "2018",
+					"Technology ": "7/10",
+					"Trust": "9/10",
+					"Decentralization": "9/10",
+					"Average Transaction Speed": "60s"
+				}
+}
