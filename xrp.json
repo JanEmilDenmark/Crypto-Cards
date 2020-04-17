@@ -1,0 +1,15 @@
+{
+"name":"XRP (XRP)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/xrp.png",
+"description":"XRP is an independent digital asset that is native to the XRP Ledger. With governance and fast transaction confirmations, XRP is said to be the most efficient settlement option for financial institutions and liquidity providers seeking global reach, accessibility, and fast settlement finality for interbank flows.",
+"properties": 	{
+					"Ticker": "XRP",
+					"Marketcap": "8377808540$",
+					"All Time High": "3,84$",
+					"Year funded": "2009",
+					"Technology ": "6/10",
+					"Trust": "7/10",
+					"Decentralization": "2/10",
+					"Average Transaction Speed": "4s"
+				}
+}
