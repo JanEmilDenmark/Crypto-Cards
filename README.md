@@ -46,4 +46,4 @@ JanEmil@hotmail.com<br/><br/>
 **Wanted team members**<br/>
 ERC1150 game developer<br/>
 Graphic designer<br/>
-One to approved and rate new assets<br/>
+One to approve and rate new assets<br/>
