@@ -1,0 +1,15 @@
+{
+"name":"Dash (DASH)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/dash.png",
+"description":"Dash describes itself as digital cash that aims to offer financial freedom to everyone. Payments are fast, easy, secure, and with near-zero fees. Built to support real-life use cases, Dash aims to provide a fully-decentralized payments solution. Users can purchase goods at thousands of merchants and trade it at major exchanges and brokers around the globe.",
+"properties": 	{
+					"Ticker": "DASH",
+					"Marketcap": "710662989$",
+					"All Time High": "1642$",
+					"Year funded": "2014",
+					"Technology ": "7/10",
+					"Trust": "7/10",
+					"Decentralization": "6/10",
+					"Average Transaction Speed": "160s"
+				}
+}
