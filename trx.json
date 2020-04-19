@@ -1,0 +1,16 @@
+{
+"name":"TRON (TRX)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/trx.png",
+"description":"TRON (TRX) strives to build the future of a truly decentralized internet and global free content entertainment system that utilizes blockchain technology. The TRON Protocol represents the architecture of an operating system based on the blockchain which could enable developers to create smart contracts and decentralized applications, freely publish, own, and store data and other content. According to the TRON Foundation, the ecosystem surrounding this network specializes in offering massive scalability and consistent reliability capable of processing transactions at a high rate via high-throughput computing.",
+"properties": 	{
+					"Ticker": "TRX",
+					"Marketcap": "877917486$",
+					"All Time High": "0,30$",
+					"Year funded": "2017",
+					"Technology ": "6/10",
+					"Trust": "5/10",
+					"Decentralization": "4/10",
+					"Average Transaction Speed": "3s"
+					"Transactions Per Second": "2000"
+				}
+}
