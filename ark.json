@@ -1,0 +1,15 @@
+{
+"name":"Ark (ARK)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/ark.png",
+"description":"ARK (ARK) is a project that offers a suite of tools to create an ecosystem of interoperable blockchains. Using the Delegated Proof-of-Stake (DPoS) consensus algorithm, ARK's network is secured by delegates, who are appointed by ARK token holders through voting.",
+"properties": 	{
+					"Ticker": "ARK",
+					"Marketcap": "21174781$",
+					"All Time High": "9,99$",
+					"Year funded": "2017",
+					"Technology ": "8/10",
+					"Trust": "7/10",
+					"Decentralization": "5/10",
+					"Average Transaction Speed": "8s"
+				}
+}
