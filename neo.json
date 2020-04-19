@@ -1,0 +1,15 @@
+{
+"name":"Neo (NEO)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/neo.png",
+"description":"Neo describes itself as an open-source platform driven by the community. It utilizes blockchain technology and digital identities to digitize and automate the management of assets using smart contracts. Using a distributed network, it aims to create a smart economy by building infrastructures of the next-gen Internet and creating a solid foundation for mass blockchain adoption.",
+"properties": 	{
+					"Ticker": "NEO",
+					"Marketcap": "548839800$",
+					"All Time High": "196,85$",
+					"Year funded": "2016",
+					"Technology ": "8/10",
+					"Trust": "7/10",
+					"Decentralization": "7/10",
+					"Average Transaction Speed": "8s"
+				}
+}
