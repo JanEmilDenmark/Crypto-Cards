@@ -30,7 +30,8 @@ Year funded (xxxx], lowest best<br/>
 Technology (1-10)<br/>
 Trust  (1-10)<br/>
 Decentralization  (1-10)<br/>
-Average Transaction Speed (s)<br/><br/>
+Average Transaction Speed (s)<br/>
+Transactions Per Second<br/><br/>
 
 **Social media**<br/>
 https://t.me/collectiblecryptocards<br/>
