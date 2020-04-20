@@ -1,0 +1,16 @@
+{
+"name":"Basic Attention Token (BAT))",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/bat.png",
+"description":"Led by Brendan Eich (creator of JavaScript and co-founder of Mozilla), Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built on the Ethereum platform. The project seeks to address fraud and opaqueness in digital advertising. The token aims to correctly price user attention within the platform. Advertisers pay BAT to website publishers for the attention of users. The BAT ecosystem includes Brave, an open-source, privacy-centered browser designed to block trackers and malware. It leverages blockchain technology to anonymously and track user attention securely and rewards publishers accordingly.",
+"properties": 	{
+					"Ticker": "BAT",
+					"Marketcap": "245513716$",
+					"All Time High": "0,98$",
+					"Year funded": "2017",
+					"Technology ": "5/10",
+					"Trust": "5/10",
+					"Decentralization": "4/10",
+					"Average Transaction Speed": "15s",
+					"Transactions Per Second": "15"
+				}
+}
