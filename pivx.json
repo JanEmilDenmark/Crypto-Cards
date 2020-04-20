@@ -1,0 +1,16 @@
+{
+"name":"PIVX (PIVX)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/pivx.png",
+"description":"PIVX describes itself as 'a pioneer in Proof of Stake (PoS) technology and an MIT licensed, open-source, decentralized blockchain-based cryptocurrency focused on achieving fungibility, transaction privacy, community governance, network scalability, and real-world utilization. It aims to become one of the most technically advanced globally-accepted online digital currencies. The team is currently working on a new Privacy Protocol.",
+"properties": 	{
+					"Ticker": "PIVX",
+					"Marketcap": "15384147$",
+					"All Time High": "9,20$",
+					"Year funded": "2016",
+					"Technology ": "7/10",
+					"Trust": "6/10",
+					"Decentralization": "8/10",
+					"Average Transaction Speed": "3s",
+					"Transactions Per Second": "70"
+				}
+}
