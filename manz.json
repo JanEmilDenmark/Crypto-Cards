@@ -1,0 +1,16 @@
+{
+"name":"ManzCoin (MANZ)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/manz.png",
+"description":"World's 1st physical cryptocurrency. Trusted by men all over the world. Catchy slogan Get Paid Get Laid.",
+"properties": 	{
+					"Ticker": "MANZ",
+					"Marketcap": "3000$",
+					"All Time High": "30$",
+					"Year funded": "2018",
+					"Technology ": "1/10",
+					"Trust": "10/10",
+					"Decentralization": "10/10",
+					"Average Transaction Speed": "84600s",
+					"Transactions Per Second": "1"
+				}
+}
