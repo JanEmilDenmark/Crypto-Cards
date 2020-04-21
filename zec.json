@@ -1,0 +1,16 @@
+{
+"name":"Zcash (ZEC)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/zec.png",
+"description":"Launched in 2016 by Zooko Wilcox-O’Hearn and based on the Zerocoin protocol, Zcash (ZEC) is a decentralized and open-source privacy-focused cryptocurrency that enables selective transparency of transactions. Zcash transactions can either be transparent or shielded through a zero-knowledge proof called zk-SNARKs. This allows the network to maintain a secure ledger of balances without disclosing the parties or amounts involved. Instead of publishing spend-authority and transaction values, the transaction metadata is encrypted and zk-SNARKs are used to prove that nobody is being dishonest.",
+"properties": 	{
+					"Ticker": "ZEC",
+					"Marketcap": "385942298$",
+					"All Time High": "5941$",
+					"Year funded": "2016",
+					"Technology ": "6/10",
+					"Trust": "8/10",
+					"Decentralization": "8/10",
+					"Average Transaction Speed": "3600s",
+					"Transactions Per Second": "27"
+				}
+}
