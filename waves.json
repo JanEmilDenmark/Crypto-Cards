@@ -1,0 +1,16 @@
+{
+"name":"Waves (WAVES)",
+"image":"https:\/\/raw.githubusercontent.com\/JanEmilDenmark\/Crypto-Cards\/master\/waves.png",
+"description":"Waves Platform’s mission lies in creating an ecosystem that aims to accelerate the shift from centralized to decentralized systems and an emphasis on the individual’s control of their own funds and assets, personal data, and privacy. Waves Platform describes itself as an open network for Web 3.0 applications and custom decentralized solutions, with a range of purpose-designed tools for making the process of developing and running dApps easy and accessible. Launched in 2016, Waves has since released several blockchain-based solutions. Waves’ technology is designed to address the needs of developers and companies that want to leverage the properties of blockchain systems – including their security, auditability, verifiability and the trustless execution of transactions and business logic.",
+"properties": 	{
+					"Ticker": "WAVES",
+					"Marketcap": "100884987$",
+					"All Time High": "18,07$",
+					"Year funded": "2016",
+					"Technology ": "7/10",
+					"Trust": "7/10",
+					"Decentralization": "5/10",
+					"Average Transaction Speed": "1.5",
+					"Transactions Per Second": "60"
+				}
+}
