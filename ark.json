@@ -10,6 +10,7 @@
 					"Technology ": "8/10",
 					"Trust": "7/10",
 					"Decentralization": "5/10",
-					"Average Transaction Speed": "8s"
+					"Average Transaction Speed": "8s",
+					"Transactions Per Second": "150"
 				}
 }
